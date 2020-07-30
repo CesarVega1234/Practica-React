@@ -1,8 +1,8 @@
 ## React,Semantic-UI,Firebase y Redux-context
 
-Teniendo curiosad sobre distintas cosas hice una web basica sobre como implementar ciertos modulos y saber como se utilizan.
+Teniendo curiosidad sobre como se implementaban algunos modulos, hice una web basica sobre como implementar ciertos modulos.
 
---ADVERTENCIA-- Los archivo en la carpeta src/api.js,index.js,messaging.js,registerServiceWorker.js,setup.js y watcher.js van adentro de una carpeta en "src/services"
+   --ADVERTENCIA-- Los archivo en la carpeta src/api.js,index.js,messaging.js,registerServiceWorker.js,setup.js y watcher.js van adentro de una carpeta en "src/services"
 ### Conocimientos aprendidos:
 
 1. [Semantic UI]
@@ -16,4 +16,9 @@ Teniendo curiosad sobre distintas cosas hice una web basica sobre como implement
 
 4.[Notificaciones web]
    - Implemente una manera de notificar desde la base de datos Firebase cuando se modificaba un documento. Es sencillo de aplicar, pero el problema es la falta de actualizacion en la documentacion.
-
+   
+5.[Login con google]
+   - Implementacion de acceso con google.
+   
+6.[Autorizacion de roles]
+   - Dependiendo si estas registrado o no a la web accedes. 
