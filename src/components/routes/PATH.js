@@ -1,0 +1,8 @@
+export const DASHBOARD = "/dashboard"
+export const PEDIDOS = "/pedidos"
+export const CREAR_PEDIDO = "/crear pedido"
+export const HISTORIAL_PEDIDOS = "/historial pedidos"
+export const MODIFICAR_PEDIDO = "/modificar pedido"
+export const STOCK = "/stock"
+export const LOGIN = "/login"
+export const MOSTRAR_PDF = "/informacion del pedido"
