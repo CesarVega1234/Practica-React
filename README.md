@@ -1,5 +1,6 @@
 ## React,Semantic-UI,Firebase y Redux-context
 
+Teniendo curiosad sobre distintas cosas hice una web basica sobre como implementar ciertos modulos y saber como se utilizan.
 ### Conocimientos aprendidos:
 
 1. [Semantic UI]
